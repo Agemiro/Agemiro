@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on front-end development.
 - 🌱 I’m currently learning new front-end frameworks but also back-end.
-- 📫 How to reach me: By my email agemiroalves11@gmail.com
+- 📫 How to reach me: By my email agemiroalves11@gmail.com 
 - ⚡ Fun fact: I am very hardworking, I never deny a challenge imposed on me. Because I believe we are all capable, just want and make it happen.
 
 <div align="center">
@@ -25,5 +25,10 @@
   <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <!--<img align="right" alt="agemiro" height="150" style="border-radius:50px; "src="">-->
+</div>
+
+<div display:inline>
+  <h4>My account in linkedin:</h4>
+  <a href="https://www.linkedin.com/in/agemiro-alves/"><img alt="linkedin" height="100" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"></a>
 </div>
 
