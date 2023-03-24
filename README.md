@@ -1,7 +1,6 @@
 ### Hi there! I'm Agemiro Alves👋
 
-- 🔭 I’m currently working on front-end development.
-- 🌱 I’m currently learning new front-end frameworks but also back-end.
+- 🔭 I'm a full stack software developer.
 - 📫 How to reach me: By my email agemiroalves11@gmail.com 
 - ⚡ Fun fact: I am very hardworking, I never deny a challenge imposed on me. Because I believe we are all capable, just want and make it happen.
 
