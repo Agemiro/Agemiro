@@ -26,8 +26,3 @@
   <!--<img align="right" alt="agemiro" height="150" style="border-radius:50px; "src="">-->
 </div>
 
-<div display:inline>
-  <h4>Access my LinkedIn</h4>
-  <a href="https://www.linkedin.com/in/agemiro-alves/"><img alt="linkedin" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
-</div>
-
